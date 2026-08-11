@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Marwan AKA ( Se7en )
 
-<!--
-**Marven66/Marven66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Engineering student
+- Learning Machine Learning and AI
+- Interested in Machine Learning, Linux, and software engineering
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- NumPy / Pandas
+- Scikit-learn
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Python • Git • Linux • VS Code • Jupyter • GitHub • C++ • Java • HTML • CSS • JS
+
+
+## Contact
+[LinkedIn](...)
+[Email](marwanawad.7597@gmail.com)
