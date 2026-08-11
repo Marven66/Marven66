@@ -1,4 +1,4 @@
-# Hi, I'm Marwan AKA ( Se7en )
+# Hi, I'm Marwan AKA ( Marven )
 
 ## About Me
 - Engineering student
