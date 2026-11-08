@@ -1,3 +1,43 @@
+# Hi, I'm Marwan Awad
+
+### Computer Science Student | Software Developer | AI & Machine Learning Enthusiast
+
+I'm a Computer Science student passionate about problem-solving, software development, and exploring intelligent technologies.
+
+I enjoy building projects, learning new technologies, and improving my programming skills through competitive programming and practical experience.
+
+### About Me
+
+- 🎓 Computer Science Student (2nd Year).
+- 💻 Interested in Software Engineering and Artificial Intelligence.
+- 🧠 Practicing Data Structures & Algorithms and Competitive Programming.
+- 🤖 Exploring Machine Learning and Deep Learning.
+- ☕ Working with C++, Java, Python, and JavaScript.
+- 🐧 Interested in Linux, open-source software, and developer tools.
+- 🚀 Focused on building practical projects and improving my problem-solving skills.
+
+### What I'm Currently Working On
+
+- Improving my problem-solving skills through Codeforces and VJudge.
+- Learning Machine Learning with Python, Scikit-learn, and PyTorch.
+- Developing projects using Java and C++.
+- Exploring software development tools and modern development environments.
+
+### Areas of Interest
+
+- Data Structures & Algorithms
+- Software Engineering
+- Machine Learning & Deep Learning
+- Artificial Intelligence
+- Competitive Programming
+- Open Source Development
+
+---
+
+
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maro_tux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marwanawad.7597@gmail) 
