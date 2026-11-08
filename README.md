@@ -1,95 +1,15 @@
-# Hey, I'm Marven
 
-\<div align="center">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maro_tux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marwanawad.7597@gmail) 
 
-### Software Engineer in Progress | Problem Solver | Tech Enthusiast
-
-Building things, solving problems, and learning how systems work.
-
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Competitive+Programming;Machine+Learning;Software+Engineering;Linux+%26+Open+Source](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=500\&lines=Competitive+Programming;Machine+Learning;Software+Engineering;Linux+%26+Open+Source)" alt="Typing SVG" />
-
-&#x20; \<br/>
-
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=Marven66&style=flat-square&color=blue](https://komarev.com/ghpvc/?username=Marven66\&style=flat-square\&color=blue)" alt="Profile views" />
-
-\</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Marven&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Marven&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Marven&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Marven&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## About Me
-
-- Studying Computer Science and Engineering.
-- Interested in algorithms, problem solving, and software development.
-- Exploring Machine Learning and data science.
-- Interested in Linux, automation, and open-source technologies.
-- Always learning and building new projects.
-
-## Tech Stack
-
-\<div align="center">
-
-### Languages
-
-\<img src="[https://skillicons.dev/icons?i=cpp,python,java,bash,html,css](https://skillicons.dev/icons?i=cpp,python,java,bash,html,css)" />
-
-### Frameworks & Tools
-
-\<img src="[https://skillicons.dev/icons?i=django,docker,git,github,linux,fedora,vscode,anaconda](https://skillicons.dev/icons?i=django,docker,git,github,linux,fedora,vscode,anaconda)" />
-
-### Currently Exploring
-
-\<img src="[https://skillicons.dev/icons?i=sklearn,pytorch,numpy,pandas](https://skillicons.dev/icons?i=sklearn,pytorch,numpy,pandas)" />
-
-\</div>
-
----
-
-## GitHub Statistics
-
-\<div align="center">
-
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Marven66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Marven66\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
-
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Marven66&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Marven66\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-
-\<br/>
-
-\<img width="70%" src="[https://streak-stats.demolab.com?user=Marven66&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Marven66\&theme=tokyonight\&hide_border=true)" />
-
-\</div>
-
----
-
-## Contribution Activity
-
-\<div align="center">
-
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Marven66&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Marven66\&theme=tokyo-night\&hide_border=true)" width="100%" />
-
-\</div>
-
----
-
-## GitHub Trophies
-
-\<div align="center">
-
-\<img src="[https://github-profile-trophy.vercel.app/?username=Marven66&theme=tokyonight&no-frame=true&no-bg=true&column=7](https://github-profile-trophy.vercel.app/?username=Marven66\&theme=tokyonight\&no-frame=true\&no-bg=true\&column=7)" width="100%" />
-
-\</div>
-
----
-
-\<div align="center">
-
-### Let's Connect
-
-\<a href="[https://github.com/Marven66](https://github.com/Marven66)">   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
-
-\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a>
-
-\<br/>\<br/>
-
-*Building. Breaking. Learning. Repeating.*
-
-\</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
