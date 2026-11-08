@@ -8,7 +8,7 @@ I enjoy building projects, learning new technologies, and improving my programmi
 
 ### About Me
 
-- 🎓 Computer Science Student (2nd Year).
+- 🎓 Computer Science Student (3nd Year).
 - 💻 Interested in Software Engineering and Artificial Intelligence.
 - 🧠 Practicing Data Structures & Algorithms and Competitive Programming.
 - 🤖 Exploring Machine Learning and Deep Learning.
