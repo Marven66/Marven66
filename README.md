@@ -1,50 +1,95 @@
-# Hey, What's Up?
+# Hey, I'm Marven
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,anaconda,bash,cpp,css,django,docker,fedora,java" height="60" alt="Tech stack" />
-</div>
+\<div align="center">
 
----
+### Software Engineer in Progress | Problem Solver | Tech Enthusiast
 
-<div align="center">
+Building things, solving problems, and learning how systems work.
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
-  </a>
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Competitive+Programming;Machine+Learning;Software+Engineering;Linux+%26+Open+Source](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=500\&lines=Competitive+Programming;Machine+Learning;Software+Engineering;Linux+%26+Open+Source)" alt="Typing SVG" />
 
-</div>
+&#x20; \<br/>
+
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=Marven66&style=flat-square&color=blue](https://komarev.com/ghpvc/?username=Marven66\&style=flat-square\&color=blue)" alt="Profile views" />
+
+\</div>
 
 ---
 
-<div align="center">
+## About Me
 
-  <img src="https://streak-stats.demolab.com?user=Marven66&locale=en&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
+- Studying Computer Science and Engineering.
+- Interested in algorithms, problem solving, and software development.
+- Exploring Machine Learning and data science.
+- Interested in Linux, automation, and open-source technologies.
+- Always learning and building new projects.
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Marven66&theme=dracula&column=-1&row=1&margin-w=8" height="150" alt="GitHub trophies" />
+## Tech Stack
 
-</div>
+\<div align="center">
+
+### Languages
+
+\<img src="[https://skillicons.dev/icons?i=cpp,python,java,bash,html,css](https://skillicons.dev/icons?i=cpp,python,java,bash,html,css)" />
+
+### Frameworks & Tools
+
+\<img src="[https://skillicons.dev/icons?i=django,docker,git,github,linux,fedora,vscode,anaconda](https://skillicons.dev/icons?i=django,docker,git,github,linux,fedora,vscode,anaconda)" />
+
+### Currently Exploring
+
+\<img src="[https://skillicons.dev/icons?i=sklearn,pytorch,numpy,pandas](https://skillicons.dev/icons?i=sklearn,pytorch,numpy,pandas)" />
+
+\</div>
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Marven66/Marven66/output/pacman-contribution-graph-dark.svg">
+## GitHub Statistics
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Marven66/Marven66/output/pacman-contribution-graph.svg">
+\<div align="center">
 
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/Marven66/Marven66/output/pacman-contribution-graph.svg">
-</picture>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Marven66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Marven66\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Marven66&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Marven66\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+
+\<br/>
+
+\<img width="70%" src="[https://streak-stats.demolab.com?user=Marven66&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Marven66\&theme=tokyonight\&hide_border=true)" />
+
+\</div>
+
+---
+
+## Contribution Activity
+
+\<div align="center">
+
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Marven66&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Marven66\&theme=tokyo-night\&hide_border=true)" width="100%" />
+
+\</div>
+
+---
+
+## GitHub Trophies
+
+\<div align="center">
+
+\<img src="[https://github-profile-trophy.vercel.app/?username=Marven66&theme=tokyonight&no-frame=true&no-bg=true&column=7](https://github-profile-trophy.vercel.app/?username=Marven66\&theme=tokyonight\&no-frame=true\&no-bg=true\&column=7)" width="100%" />
+
+\</div>
+
+---
+
+\<div align="center">
+
+### Let's Connect
+
+\<a href="[https://github.com/Marven66](https://github.com/Marven66)">   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
+
+\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a>
+
+\<br/>\<br/>
+
+*Building. Breaking. Learning. Repeating.*
+
+\</div>
