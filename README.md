@@ -1,4 +1,4 @@
-# Hi, I'm Marwan Awad
+# Hi, I'm Marwan Mohamed Ahmed Awad
 
 ### Computer Science Student | Software Developer | AI & Machine Learning Enthusiast
 
